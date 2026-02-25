@@ -24,7 +24,7 @@ Based in Dublin, Ireland.
 - Building a strong data portfolio
 
 ## 🚀 Goals
-To secure a Junior Data Analyst role where I can apply analytical thinking and data-driven decision-making.
+Seeking a Junior Data Analyst role to contribute with business-oriented data analysis and data-driven decision-making.
 
 ---
 
