@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Beatriz 👋
 
-<!--
-**beatrizdemetrio/beatrizdemetrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analytics student based in Dublin, Ireland, transitioning into a career in Data Analysis.
 
-Here are some ideas to get you started:
+## 🔎 About Me
+- Background in Legal & Advocacy
+- Currently completing a Higher Diploma in Data Analytics
+- Focused on business-oriented data analysis
+- Building practical projects using real datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- Python (Pandas, NumPy)
+- SQL
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn)
+- Statistics
+
+## 📊 Current Focus
+- Time-Series Analysis
+- Business Performance Analysis
+- Growth & Trend Identification
+- Building a strong data portfolio
+
+## 🚀 Goals
+To secure a Junior Data Analyst role where I can apply analytical thinking and data-driven decision-making.
+
+---
+
+📍 Dublin, Ireland  
+📫 Open to opportunities
