@@ -1,32 +1,60 @@
 # Hi, I'm Beatriz 👋
 
-Data Analytics professional transitioning from a legal background into Data Analysis.
-Based in Dublin, Ireland.
+Junior Data Analyst with a background in law, focused on turning data into clear, business-oriented insights. Based in Dublin, Ireland.
 
 ## 🔎 About Me
-- Background in Legal & Advocacy
-- Currently completing a Higher Diploma in Data Analytics
+
+- Background in Law & Advocacy
+- Completed a Higher Diploma in Data Analytics
 - Focused on business-oriented data analysis
-- Developing business-oriented analytical projects using real datasets
-  
-## 🛠 Technical Skills
+- Developing practical analytics projects using real-world datasets
+- Interested in Data Analysis, Business Intelligence and Data Visualization
+
+## 🛠️ Technical Skills
+
 - Python (Pandas, NumPy)
 - SQL
+- Power BI
+- Excel
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib, Seaborn)
+- Data Visualization
 - Statistics
 
 ## 📊 Current Focus
-- Time-Series Analysis
+
+- Power BI & Data Visualization
+- SQL & Data Analysis
 - Business Performance Analysis
-- Growth & Trend Identification
-- Building a strong data portfolio
+- Exploratory Data Analysis
+- Identifying trends and business insights
+- Building practical data analytics projects
 
-## 🚀 Goals
-Seeking a Junior Data Analyst role to contribute with business-oriented data analysis and data-driven decision-making.
+## 🚀 Projects
 
----
+### 📈 Business Sales Time-Series Analysis
 
-📍 Dublin, Ireland  
-📫 Open to opportunities
+A data analysis project exploring sales trends over time using Python and real-world business data.
+
+**Skills demonstrated:**
+- Time-Series Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Transformation
+- Business Insight Generation
+- Data Visualization
+- Analytical Thinking
+
+[View Project](./business-sales-time-series-analysis)
+
+## 🎯 Goals
+
+Seeking a Junior Data Analyst role where I can apply analytical thinking, data visualization and business-oriented data analysis to support data-driven decision-making.
+
+## 📍 Location
+
+Dublin, Ireland
+
+## 📫 Connect with me
+
+- LinkedIn: [Beatriz Demétrio da Silva](https://www.linkedin.com/)
+- GitHub: [beatrizdemetrio](https://github.com/beatrizdemetrio)
